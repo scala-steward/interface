@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository is soon to be archived.**
+>
+> Its sources now live in [coursier's main repository](https://github.com/coursier/coursier), mainly under the
+> [`modules/interface`](https://github.com/coursier/coursier/tree/main/modules/interface) directory. Its upcoming
+> release should be done alongside the other coursier artifacts during the next release in the coursier repository.
+
 # coursier-interface
 
 *Zero-dependency Java API for coursier*
